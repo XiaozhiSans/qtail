@@ -9,7 +9,7 @@ QQ群名片小尾巴生成器
   ![qqpc](pic/qqpc.jpg)
 
 # 效果图
-![效果图](pic/xgt.jpg) ![效果图2](pic/xgt2.jpg)
+![效果图](pic/xgt.jpg) ![效果图2](pic/xgt.png)
 
 # 使用方法
 *`py qtail.py`*
