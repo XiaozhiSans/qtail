@@ -1,5 +1,4 @@
-# qtail
-QQ群名片小尾巴生成器  
+# qtail（QQ群名片小尾巴生成器）
   
 这是一个用于生成qq群名片后面加个小尾巴的小工具  
   
@@ -17,3 +16,5 @@ QQ群名片小尾巴生成器
   
 # 使用方法
 `py qtail.py`  
+  
+[qtail网页版使用方法](https://github.com/XiaozhiSans/qtail/blob/webpage/README.md#%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95)
